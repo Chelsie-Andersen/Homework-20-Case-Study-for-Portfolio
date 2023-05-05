@@ -1,3 +1,4 @@
+/*Below is the CSS for the Layout of the Page */
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
@@ -68,4 +69,27 @@
 }
 .bd-mode-toggle {
   z-index: 1500;
+}
+
+
+/*Below is the CSS for the Hero Image */
+
+.HeroImage {
+background-image: url(../)
+}
+
+.HeroImage h1{
+  font-family: 'Fraunces', serif;
+  font-size: 88px;
+  font-weight: 700;
+  line-height: 91px;
+  color: #586165 ;
+  padding: 15px;
+  }
+
+.HeroImage h2{
+  font-family: 'Karla', sans-serif;
+  font-size: 22px;
+  line-height: 31px;
+  color: #586165 ;
 }
