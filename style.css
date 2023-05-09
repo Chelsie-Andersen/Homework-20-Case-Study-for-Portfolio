@@ -98,3 +98,573 @@ height: 700px;
   line-height: 31px;
   color: #586165 ;
 }
+
+
+
+.backstory{
+  font-family: 'Fraunces', serif;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.backstory h1 {
+    display: block;
+    font-family: 'Fraunces', serif;
+    font-size: 45px;
+    color: #88368A;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.backstory h3 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 22px;
+  color: #586165;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.backstory p {
+  display: block;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#Problem {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  }
+
+#Problem h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#Problem p {
+  display: block;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#ClientGoals {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  }
+
+#ClientGoals h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#ClientGoals p {
+  display: block;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.Insight{
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Insight h1 {
+    display: block;
+    font-family: 'Fraunces', serif;
+    font-size: 45px;
+    color: #88368A;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.Insight h3 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 22px;
+  color: #586165;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.CompAnalysis{
+  justify-content: center;
+  padding-top: 5px;
+  padding-bottom: 5x;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.CompAnalysis h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.CompAnalysis h3 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 22px;
+  color: #586165;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.CompAnalysis p {
+  display: block;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 0px;
+  padding-bottom: 5px;
+}
+
+.pets{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding-top: 0px;
+} 
+
+#UserInterviews{
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#UserInterviews h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#UserInterviews h3 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 22px;
+  color: #586165;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+#UserInterviews p {
+   font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#Solutions{
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#Solutions h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#Solutions p {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#Future{
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.Future h1 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 45px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+
+#Cards{
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+}
+
+#Cards h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#Cards p {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#cardSortCat h2{
+  margin-top: 40px;
+}
+
+#moody{
+width: 70%;
+height: 70%;
+justify-content: center;
+align-items: center;
+display: flex;
+margin: auto;
+}
+
+.row {
+  padding-top: 0px;
+}
+
+#Storyboard {
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#Storyboard h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#Storyboard p {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.WFrams {
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.WFrams h1 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 45px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#IntWires {
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#IntWires h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#IntWires p {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#Styleguide {
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#Styleguide h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#Styleguide p {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#HiWires {
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#HiWires h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#HiWires p {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#Focal {
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+#Focal h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#Focal p {
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.mobile{
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.mobile h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.mobile p {
+  display: block;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+
+#Proto{
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+#Proto h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.Features{
+  display: block;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+
+.Testing{
+  font-family: 'Fraunces', serif;
+  justify-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.Testing h1 {
+    display: block;
+    font-family: 'Fraunces', serif;
+    font-size: 45px;
+    color: #88368A;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#AB{
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#AB h2 {
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 28px;
+  color: #88368A;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#AB p {
+  display: block;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  color: #586165;
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
