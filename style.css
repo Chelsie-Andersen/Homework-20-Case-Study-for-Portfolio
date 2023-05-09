@@ -75,7 +75,11 @@
 /*Below is the CSS for the Hero Image */
 
 .HeroImage {
-background-image: url(../)
+background-image: url(../Case-Study/Images/CatHeroImage.png);
+background-size: 1800px;
+background-position: 1vh;
+width: auto;
+height: 700px;
 }
 
 .HeroImage h1{
@@ -84,7 +88,8 @@ background-image: url(../)
   font-weight: 700;
   line-height: 91px;
   color: #586165 ;
-  padding: 15px;
+  justify-content: center;
+  padding-top: 200px;
   }
 
 .HeroImage h2{
