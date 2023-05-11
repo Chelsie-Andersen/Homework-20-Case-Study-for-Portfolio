@@ -104,12 +104,13 @@ height: 700px;
 .backstory{
   font-family: 'Fraunces', serif;
   justify-content: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 35px;
+  padding-bottom: 35px;
   margin-left: 300px;
   margin-right: 300px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  
 }
 
 .backstory h1 {
@@ -120,7 +121,7 @@ height: 700px;
     font-weight: bold;
     padding-top: 15px;
     padding-bottom: 15px;
-}
+    }
 
 .backstory h3 {
   display: block;
@@ -452,7 +453,7 @@ margin: auto;
 #IntWires {
   justify-content: center;
   padding-top: 50px;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
   margin-left: 300px;
   margin-right: 300px;
   margin-top: 50px;
@@ -477,10 +478,17 @@ margin: auto;
   padding-bottom: 10px;
 }
 
+#loficats {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
 #Styleguide {
   justify-content: center;
-  padding-top: 50px;
-  padding-bottom: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   margin-left: 300px;
   margin-right: 300px;
   margin-top: 50px;
@@ -563,12 +571,12 @@ margin: auto;
 
 .mobile{
   justify-content: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   margin-left: 300px;
   margin-right: 300px;
   margin-top: 50px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .mobile h2 {
@@ -587,13 +595,20 @@ margin: auto;
   font-size: 16px;
   color: #586165;
   padding-top: 0px;
-  padding-bottom: 10px;
+  padding-bottom: 00px;
+}
+
+#cellpic {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
 }
 
 #Proto{
   justify-content: center;
-  padding-top: 50px;
-  padding-bottom: 100px;
+  padding-top: 35px;
+  padding-bottom: 35px;
   margin-left: 300px;
   margin-right: 300px;
   margin-top: 100px;
@@ -622,12 +637,12 @@ margin: auto;
 .Testing{
   font-family: 'Fraunces', serif;
   justify-content: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 35px;
+  padding-bottom: 35px;
   margin-left: 300px;
   margin-right: 300px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 35px;
+  margin-bottom: 35px;
 }
 
 .Testing h1 {
@@ -643,11 +658,11 @@ margin: auto;
 #AB{
   justify-content: center;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
   margin-left: 300px;
   margin-right: 300px;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 50px;
 }
 
 #AB h2 {
@@ -658,6 +673,8 @@ margin: auto;
   font-weight: bold;
   padding-top: 15px;
   padding-bottom: 15px;
+  padding-left: 45px;
+  padding-right: 5px;
 }
 
 #AB p {
@@ -666,5 +683,31 @@ margin: auto;
   font-size: 16px;
   color: #586165;
   padding-top: 0px;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
+  padding-left: 45px;
+  padding-right: 5px;
+}
+
+#picsRedo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.NextSteps {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  margin-top: 10px;
+  margin-bottom: 60px;
+}
+
+.Final {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
