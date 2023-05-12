@@ -75,7 +75,7 @@
 /*Below is the CSS for the Hero Image */
 
 .HeroImage {
-background-image: url(../Case-Study/Images/CatHeroImage.png);
+background-image: url(./Case-Study/Images/CatHeroImage.png);
 background-size: 1800px;
 background-position: 1vh;
 width: auto;
