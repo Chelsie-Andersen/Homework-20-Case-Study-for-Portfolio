@@ -1,3 +1,46 @@
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  justify-content: center;
+}
+.nav li {
+  display: inline-block;
+  min-width: 5em;
+  margin: 0 0.5em;
+}
+.nav a {
+  text-decoration: none;
+  display: block;
+  font-family: 'Fraunces', serif;
+  position: relative;
+  color: #565452;
+  padding:.5em 0
+}
+.nav a:hover {
+  color: #E89537;
+  font-weight: 700;
+}
+
+.nav a:hover:before {
+  left: 0;
+  width: 100%;
+}
+
+.nav li {
+  display: inline;
+  color: #565452;
+  padding: 35px;
+   }
+
+
+* {
+  margin:0;
+  padding:0;
+}
+
+
 /*Below is the CSS for the Layout of the Page */
 .bd-placeholder-img {
   font-size: 1.125rem;
